@@ -7,7 +7,10 @@
 
 Binary Bot and Deriv Bot is a powerful, free trading application that provides a wide range of features for Binary.com and Deriv.com traders. Enhance your trading experience with our advanced tools and strategies!
 
+[Login](https://binarybot.live/login) - Access your account
 ![FireShot Capture 262 - Login - Free auto trading Bot for Deriv - binarybot live](https://github.com/user-attachments/assets/03554fdf-8e6c-4f69-86aa-3801b9cbc2ca)
+
+[Login](https://binarybot.live/home) - Home
 ![FireShot Capture 265 - Free auto trading Bot for Binary com - Deriv com - binarybot live](https://github.com/user-attachments/assets/cbfcdcaf-2335-486c-a386-bc5a13a516d2)
 
 
